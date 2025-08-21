@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Huat Thart Chiang"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Huat Thart Chiang"
 description              : &description "personal description"
@@ -151,10 +151,10 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
-  google:
-    tracking_id          :
-
+  #provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  #google:
+  #  tracking_id          : 
+google_analytics: G-GB3G5E4S7W
 
 # Reading Files
 include:

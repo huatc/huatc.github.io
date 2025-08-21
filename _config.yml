@@ -151,9 +151,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-gtag" #"false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider: "google-gtag" #"false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          : "G-GB3G5E4S7W"
+    tracking_id: "G-GB3G5E4S7W"
 
 # Reading Files
 include:

@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Talks"
-permalink: /talks/
+title: "Software"
+permalink: /software/
 author_profile: true   # shows your sidebar profile, like the home page
 ---
 

@@ -34,7 +34,7 @@ Biomolecules are the most complex materials known to mankind, and are responsibl
 </p>
 
 <p align="center">
-  <img src="../images/evaporation_movie.gif"  width="600" height="250">
+  <img src="../images/evaporation_movie.gif"  width="550" height="200">
 </p>
 
 
@@ -69,6 +69,11 @@ Data analysis from small-angle scattering, especially from large strutcures, can
   <img src="../images/SAS_p2.png" width="550" height="200">
 </p>
 
+
+<p align="center">
+  <img src="../images/cube_movie_final.gif"  width="600" height="250">
+</p>
+
 <p align="center">
   <a href="https://www.nature.com/articles/s41563-025-02297-5">Bond-centric modular design of protein assemblies</a>
 </p>
@@ -76,9 +81,3 @@ Data analysis from small-angle scattering, especially from large strutcures, can
 <p align="center">
   <a href="https://journals.iucr.org/paper?uu5014">Efficient analysis of small-angle scattering curves</a>
 </p>
-
-
-<p align="center">
-  <img src="../images/cube_movie_final.gif"  width="600" height="250">
-</p>
-

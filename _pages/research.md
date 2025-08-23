@@ -18,11 +18,11 @@ The collection of large datasets is critical for advancing our understanding of 
 
 
 <p align="center">
-  <a href="https://pubs.rsc.org/en/content/articlehtml/2024/dd/d4dd00211c">[Data-driven exploration of silver nanoplate formation in multidimensional chemical design spaces]</a>
+  <a href="https://pubs.rsc.org/en/content/articlehtml/2024/dd/d4dd00211c">Data-driven exploration of silver nanoplate formation</a>
 </p>
 
 <p align="center">
-  <a href="https://pubs.rsc.org/en/content/articlehtml/2022/dd/d2dd00025c">[Autonomous retrosynthesis of gold nanoparticles via spectral shape matching]</a>
+  <a href="https://pubs.rsc.org/en/content/articlehtml/2022/dd/d2dd00025c">Autonomous retrosynthesis via spectral shape matching</a>
 </p>
 
 
@@ -34,7 +34,7 @@ Biomolecules are the most complex materials known to mankind, and are responsibl
 </p>
 
 <p align="center">
-  <a href="https://www.cell.com/chem/abstract/S2451-9294(24)00652-1">[Design of light- and chemically responsive protein assemblies through host-guest interactions]</a>
+  <a href="https://www.cell.com/chem/abstract/S2451-9294(24)00652-1">Design of light-and chemically responsive protein assemblies</a>
 </p>
 
 ## Computer Simulations 

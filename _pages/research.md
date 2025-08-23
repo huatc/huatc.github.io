@@ -13,7 +13,7 @@ Currently, my work involves electrochemistry, particularly electrochemical imped
 The collection of large datasets is critical for advancing our understanding of complex material systems. High-throughput experimentation, when combined with machine learning, provides a powerful framework for autonomously generating such datasets. Nevertheless, important challenges remain, such as the development of autonomous data analysis methods, the integration of multimodal characterization techniques, and the interpretation of machine learning models to extract meaningful scientific insights. To address these challenges, I have implemented and tested several strategies on data-driven frameworks for the synthesis of plasmonic nanoparticles. 
 
 <p align="center">
-  <img src="../images/HT_Experimentation.png" width="550" height="200">
+  <img src="../images/HT_Experimentation.png" width="650" height="300">
 </p>
 
 
@@ -30,7 +30,7 @@ The collection of large datasets is critical for advancing our understanding of 
 Biomolecules are the most complex materials known to mankind, and are responsible for most of the physiological processes that make life possible. Their function arises from intricate assemblies of proteins, DNA, peptides, lipids, and other components. My research focuses on understanding and designing such self-assembling biomolecular systems, particularly by uncovering sequence-level design rules that drive the formation of complex structures.
 
 <p align="center">
-  <img src="../images/biomolecules.png" width="600" height="250">
+  <img src="../images/biomolecules.png" width="700" height="350">
 </p>
 
 <p align="center">

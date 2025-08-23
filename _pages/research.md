@@ -16,6 +16,14 @@ The collection of large datasets is critical for advancing our understanding of 
   <img src="../images/HT_Experimentation.png" width="550" height="200">
 </p>
 
+<div align="center">
+[Data-driven exploration of silver nanoplate formation in multidimensional chemical design spaces](https://pubs.rsc.org/en/content/articlehtml/2024/dd/d4dd00211c)
+</div>
+
+<div align="center">
+[Autonomous retrosynthesis of gold nanoparticles via spectral shape matching](https://pubs.rsc.org/en/content/articlehtml/2022/dd/d2dd00025c)
+</div>
+
 
 ## Biomolecular Self-Assembly 
 Biomolecules are the most complex materials known to mankind, and are responsible for most of the physiological processes that make life possible. Their function arises from intricate assemblies of proteins, DNA, peptides, lipids, and other components. My research focuses on understanding and designing such self-assembling biomolecular systems, particularly by uncovering sequence-level design rules that drive the formation of complex structures.

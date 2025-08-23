@@ -16,13 +16,14 @@ The collection of large datasets is critical for advancing our understanding of 
   <img src="../images/HT_Experimentation.png" width="550" height="200">
 </p>
 
-<div align="center">
-[Data-driven exploration of silver nanoplate formation in multidimensional chemical design spaces](https://pubs.rsc.org/en/content/articlehtml/2024/dd/d4dd00211c)
-</div>
 
-<div align="center">
-[Autonomous retrosynthesis of gold nanoparticles via spectral shape matching](https://pubs.rsc.org/en/content/articlehtml/2022/dd/d2dd00025c)
-</div>
+<p align="center">
+  <a href="https://pubs.rsc.org/en/content/articlehtml/2024/dd/d4dd00211c">[Data-driven exploration of silver nanoplate formation in multidimensional chemical design spaces]</a>
+</p>
+
+<p align="center">
+  <a href="https://pubs.rsc.org/en/content/articlehtml/2022/dd/d2dd00025c">[Autonomous retrosynthesis of gold nanoparticles via spectral shape matching]</a>
+</p>
 
 
 ## Biomolecular Self-Assembly 
@@ -32,7 +33,9 @@ Biomolecules are the most complex materials known to mankind, and are responsibl
   <img src="../images/biomolecules.png" width="550" height="200">
 </p>
 
-
+<p align="center">
+  <a href="https://www.cell.com/chem/abstract/S2451-9294(24)00652-1">[Design of light- and chemically responsive protein assemblies through host-guest interactions]</a>
+</p>
 
 ## Computer Simulations 
 Computational simulations are powerful tools for uncovering insights that are often difficult to obtain through experimental characterization alone. My work in this area focuses on modeling particle interactions using pair potentials and analyzing simulation outputs through structure factors and scattering methods. In addition, I have developed approaches to optimize simulation potentials that reproduce experimental SAXS data, bridging the gap between simulation and experiment. 

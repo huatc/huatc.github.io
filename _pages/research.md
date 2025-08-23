@@ -33,8 +33,14 @@ Biomolecules are the most complex materials known to mankind, and are responsibl
   <img src="../images/biomolecules.png" width="550" height="200">
 </p>
 
+
+
 <p align="center">
   <a href="https://www.cell.com/chem/abstract/S2451-9294(24)00652-1">Design of light-and chemically responsive protein assemblies</a>
+</p>
+
+<p align="center">
+  <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202309725">Mechanisms of Biomolecular Self-Assembly</a>
 </p>
 
 ## Computer Simulations 
@@ -43,7 +49,6 @@ Computational simulations are powerful tools for uncovering insights that are of
 <p align="center">
   <img src="../images/Crystal_Simulation.gif"  width="550" height="200">
 </p>
-
 
 
 ## X-ray and Neutron Scattering 
@@ -61,8 +66,13 @@ Data analysis from small-angle scattering, especially from large strutcures, can
   <img src="../images/SAS_p2.png" width="550" height="200">
 </p>
 
+<p align="center">
+  <a href="https://www.nature.com/articles/s41563-025-02297-5">Bond-centric modular design of protein assemblies</a>
+</p>
 
-
+<p align="center">
+  <a href="https://journals.iucr.org/paper?uu5014">Efficient analysis of small-angle scattering curves</a>
+</p>
 
 
 

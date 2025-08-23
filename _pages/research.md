@@ -44,7 +44,7 @@ Biomolecules are the most complex materials known to mankind, and are responsibl
 </p>
 
 ## Computer Simulations 
-Computational simulations are powerful tools for uncovering insights that are often difficult to obtain through experimental characterization alone. My work in this area focuses on modeling particle interactions using pair potentials and analyzing simulation outputs through structure factors and scattering methods. In addition, I have developed approaches to optimize simulation potentials that reproduce experimental SAXS data, bridging the gap between simulation and experiment. 
+Computational simulations are powerful tools for uncovering insights that are often difficult to obtain through experimental characterization alone. My work in this area focuses on modeling particle interactions using pair potentials and analyzing simulation outputs through structure factors and scattering methods. In addition, I have developed approaches to optimize simulation potentials to fit experimental SAXS data, bridging the gap between simulation and experiment. 
 
 <p align="center">
   <img src="../images/Crystal_Simulation.gif"  width="550" height="200">
@@ -75,7 +75,9 @@ Data analysis from small-angle scattering, especially from large strutcures, can
 </p>
 
 
-
+<p align="center">
+  <img src="../images/evaporation_movie.gif"  width="550" height="200">
+</p>
 
 
 

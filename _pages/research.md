@@ -76,7 +76,7 @@ Data analysis from small-angle scattering, especially from large strutcures, can
 
 
 <p align="center">
-  <img src="../images/evaporation_movie.gif"  width="550" height="200">
+  <img src="../images/evaporation_movie.gif"  width="600" height="250">
 </p>
 
 

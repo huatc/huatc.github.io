@@ -8,14 +8,13 @@ author_profile: true   # shows your sidebar profile, like the home page
 ## Overview 
 Currently, my work involves electrochemistry, particularly electrochemical impedance spectroscopy (EIS) and quasielastic neutron scattering (QENS), as a tool to study ion transport, interfacial processes, and charge storage. My goal is to establish connections between scattering techniques, spectroscopy, and simulation frameworks to develop a more unified understanding of structure-dynamics-property relationships across soft matter and energy systems. At the intersection of materials science, computation, and automation, my broader goal is to advance self-driving laboratory approaches for nanomaterial discovery, where high-throughput experimentation, real-time data analysis, and machine learning converge to accelerate innovation.
 
-My research can be summarized in the following topics:
-## High Throughput Experimentation and Machine Learning 
-The collection of large datasets is critical for advancing our understanding of complex material systems. High-throughput experimentation, when combined with machine learning, provides a powerful framework for autonomously generating such datasets. Nevertheless, important challenges remain, such as the development of autonomous data analysis methods, the integration of multimodal characterization techniques, and the interpretation of machine learning models to extract meaningful scientific insights. To address these challenges, I have implemented and tested several strategies on a data-driven framework for the synthesis of silver nanoplates. 
+
+## High-Throughput Experimentation and Machine Learning 
+The collection of large datasets is critical for advancing our understanding of complex material systems. High-throughput experimentation, when combined with machine learning, provides a powerful framework for autonomously generating such datasets. Nevertheless, important challenges remain, such as the development of autonomous data analysis methods, the integration of multimodal characterization techniques, and the interpretation of machine learning models to extract meaningful scientific insights. To address these challenges, I have implemented and tested several strategies on data-driven frameworks for the synthesis of plasmonic nanoparticles. 
 
 <p align="center">
   <img src="../images/HT_Experimentation.png" width="550" height="200">
 </p>
-
 
 
 ## Biomolecular Self-Assembly 

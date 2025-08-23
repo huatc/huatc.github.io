@@ -30,7 +30,7 @@ The collection of large datasets is critical for advancing our understanding of 
 Biomolecules are the most complex materials known to mankind, and are responsible for most of the physiological processes that make life possible. Their function arises from intricate assemblies of proteins, DNA, peptides, lipids, and other components. My research focuses on understanding and designing such self-assembling biomolecular systems, particularly by uncovering sequence-level design rules that drive the formation of complex structures.
 
 <p align="center">
-  <img src="../images/biomolecules.png" width="550" height="200">
+  <img src="../images/biomolecules.png" width="600" height="250">
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@ Computational simulations are powerful tools for uncovering insights that are of
 Scattering-based characterization, in particular, small-angle X-ray and neutron scattering are fundamental tools to understand the structure of nanomaterials. These techniques are used to characterize structural features ranging from angstroms to hundreds of nanometers, and can be applied to a wide range of material systems such as proteins, lipids, nanoparticles, polymers, etc. Data acquisition and analysis can be performed in high-throughput making them a powerful tool for nanomaterial characterization. A significant part of my research was performed at various large scale facilities (synchrotrons, neutron sources, and XFEL). 
 
 <p align="center">
-  <img src="../images/SAS_p1.png" width="650" height="300">
+  <img src="../images/SAS_p1.png" width="700" height="350">
 </p>
 
 

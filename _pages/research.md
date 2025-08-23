@@ -33,6 +33,9 @@ Biomolecules are the most complex materials known to mankind, and are responsibl
   <img src="../images/biomolecules.png" width="550" height="200">
 </p>
 
+<p align="center">
+  <img src="../images/evaporation_movie.gif"  width="600" height="250">
+</p>
 
 
 <p align="center">
@@ -72,11 +75,6 @@ Data analysis from small-angle scattering, especially from large strutcures, can
 
 <p align="center">
   <a href="https://journals.iucr.org/paper?uu5014">Efficient analysis of small-angle scattering curves</a>
-</p>
-
-
-<p align="center">
-  <img src="../images/evaporation_movie.gif"  width="600" height="250">
 </p>
 
 

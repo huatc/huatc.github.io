@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Huat Thart Chiang, Ph.D. "
+title: "Huat Thart Chiang"
 author_profile: true
 redirect_from: 
   - /about/

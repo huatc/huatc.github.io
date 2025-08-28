@@ -13,10 +13,10 @@ I am a postdoctoral researcher at the Materials Characterization and Processing 
   <img src="../images/summary.png" width="650" height="300">
 </p>
 
-Outside of research, I enjoy long distance running. I am actively training for several half-marathons and hope to run a marathon sometime in the future. 
+Outside of research, I enjoy long distance running. I am actively training for several half-marathons and hope to run a full marathon sometime in the future. 
 
 <p align="center">
-  <img src="../images/running.png" width="300" height="650">
+  <img src="../images/running.png" width="450" height="800">
 </p>
 
 

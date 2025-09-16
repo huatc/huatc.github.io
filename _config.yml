@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/photo_of_me.jpeg"
+  avatar           : "images/photo_of_me.jpeg"
   name             : "Huat Thart Chiang"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "USA"
   employer         : "Johns Hopkins"
   uri              : # URL
-  email            : "huatc@uw.edu" 
+  email            : "htchiang08@gmail.com" 
 
   # Academic websites
   #academia         : # URL
@@ -60,7 +60,7 @@ author:
   #goodreads        : # Username
   #google_plus      : # Username
   #keybase          : # Username
-  instagram        : huatthart # Username
+  instagram        : huattcc # Username
   #lastfm           : # Username
   linkedin         : huattc
   mastodon         : # URL

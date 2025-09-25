@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
-
 I received my B.S. in Chemical Engineering from the University of South Florida in May 2020. My undergraduate research experience in using computational methods to design proteins as well as coursework in thermodynamics and reaction engineering inspired me to pursue graduate school.
 
 In September 2020, I began my PhD in Chemical Engineering at the University of Washington under the supervision of Dr. Lilo Pozzo. My research focused on applying data-driven approaches to explore the experimental design space of colloidal synthesis and assembly. This work involved integrating AI/ML methods with high-throughput experimentation and characterization to generate large datasets, which we then used to understand how experimental variables influence structural outcomes. During this period, I gained experience with X-ray and neutron scattering techniques and applied them to a variety of materials. I also learned how to perform and analyze molecular dynamics simulations, and came to appreciate how combining simulations with experimental data provides a more complete molecular-level picture of what is happening in a system.

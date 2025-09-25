@@ -7,7 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the Materials Characterization and Processing Facility at Johns Hopkins University. My research involves electrochemistry, particularly electrochemical impedance spectroscopy (EIS) and quasielastic neutron scattering (QENS), as a tool to study ion transport, interfacial processes, and charge storage. Previously, I obtained my Ph.D in Chemical Engineering and Data Science at the University of Washington, where I researched ways to combine high-throughput experiments with computer simulations and machine learning to better understand and design new nanomaterials.
+## About Me
+
+I received my B.S. in Chemical Engineering from the University of South Florida in May 2020. My undergraduate research experience in using computational methods to design proteins as well as coursework in thermodynamics and reaction engineering inspired me to pursue graduate school.
+
+In September 2020, I began my PhD in Chemical Engineering at the University of Washington under the supervision of Dr. Lilo Pozzo. My research focused on applying data-driven approaches to explore the experimental design space of colloidal synthesis and assembly. This work involved integrating AI/ML methods with high-throughput experimentation and characterization to generate large datasets, which we then used to understand how experimental variables influence structural outcomes. During this period, I gained experience with X-ray and neutron scattering techniques and applied them to a variety of materials. I also learned how to perform and analyze molecular dynamics simulations, and came to appreciate how combining simulations with experimental data provides a more complete molecular-level picture of what is happening in a system.
+
+
+In September 2025, I joined the Materials Characterization and Processing Facility at Johns Hopkins University as a Postdoctoral Fellow. My current research explores how molecular structure and dynamics are altered when materials are confined to the nanoscale. I use experimental characterization tools such as quasi-elastic neutron scattering and broadband dielectric spectroscopy to probe these changes in motion and organization. To complement the experiments, I also perform molecular dynamics simulations, which help connect observed properties to the underlying molecular mechanisms.
 
 <p align="center">
   <img src="../images/summary.png" width="650" height="300">

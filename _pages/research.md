@@ -6,7 +6,7 @@ author_profile: true   # shows your sidebar profile, like the home page
 ---
 
 ## Overview 
-Currently, my work involves electrochemistry, particularly electrochemical impedance spectroscopy (EIS) and quasielastic neutron scattering (QENS), as a tool to study ion transport, interfacial processes, and charge storage. My goal is to establish connections between scattering techniques, spectroscopy, and simulation frameworks to develop a more unified understanding of structure-dynamics-property relationships across soft matter and energy systems. At the intersection of materials science, computation, and automation, my broader goal is to advance self-driving laboratory approaches for nanomaterial discovery, where high-throughput experimentation, real-time data analysis, and machine learning converge to accelerate innovation.
+Currently, research explores how molecular structure and dynamics are altered when materials are confined to the nanoscale. I use experimental characterization tools such as quasi-elastic neutron scattering and broadband dielectric spectroscopy to probe these changes in motion and organization. My goal is to establish connections between scattering techniques, spectroscopy, and simulation frameworks to develop a more unified understanding of structure-dynamics-property relationships across soft matter and energy systems. My broader goal is to advance self-driving laboratory approaches for nanomaterial discovery, where high-throughput experimentation, real-time data analysis, and machine learning converge to accelerate innovation.
 
 
 ## High-Throughput Experimentation and Machine Learning 

@@ -59,7 +59,7 @@ Computational simulations are powerful tools for uncovering insights that are of
 
 
 <p align="center">
-  <img src="../images/CNT_water_simulation.gif"  width="550" height="200">
+  <img src="../images/CNT_water_simulation.gif"  width="650" height="250">
 </p>
 
 <p align="center">

@@ -58,6 +58,13 @@ Computational simulations are powerful tools for uncovering insights that are of
 </p>
 
 
+<p align="center">
+  <img src="../images/CNT_water_simulation.gif"  width="550" height="200">
+</p>
+
+<p align="center">
+Nanoconfinement of Water Molecules in Carbon Nanotubes 
+</p>
 
 ## X-ray and Neutron Scattering 
 Scattering-based characterization, in particular, small-angle X-ray and neutron scattering are fundamental tools to understand the structure of nanomaterials. These techniques are used to characterize structural features ranging from angstroms to hundreds of nanometers, and can be applied to a wide range of material systems such as proteins, lipids, nanoparticles, polymers, etc. Data acquisition and analysis can be performed in high-throughput making them a powerful tool for nanomaterial characterization. A significant part of my research was performed at various large scale facilities (synchrotrons, neutron sources, and XFEL). 

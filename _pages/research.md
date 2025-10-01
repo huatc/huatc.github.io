@@ -6,11 +6,11 @@ author_profile: true   # shows your sidebar profile, like the home page
 ---
 
 ## Overview 
-Currently, research explores how molecular structure and dynamics are altered when materials are confined to the nanoscale. I use experimental characterization tools such as quasi-elastic neutron scattering and broadband dielectric spectroscopy to probe these changes in motion and organization. My goal is to establish connections between scattering techniques, spectroscopy, and simulation frameworks to develop a more unified understanding of structure-dynamics-property relationships across soft matter and energy systems. My broader goal is to advance self-driving laboratory approaches for nanomaterial discovery, where high-throughput experimentation, real-time data analysis, and machine learning converge to accelerate innovation.
+Currently, research explores how molecular structure and dynamics are altered when materials are confined to the nanoscale. I use experimental characterization tools such as quasi-elastic neutron scattering and broadband dielectric spectroscopy to probe these changes in motion and organization. My goal is to establish connections between scattering techniques, spectroscopy, and simulation frameworks to develop a more unified understanding of structure-dynamics-property relationships across soft matter and energy systems. My broader goal is to advance self-driving laboratory approaches for nanomaterial discovery, where high-throughput experimentation/simulation(s), real-time data analysis, and machine learning converge to accelerate innovation.
 
 
 ## High-Throughput Experimentation and Machine Learning 
-The collection of large datasets is critical for advancing our understanding of complex material systems. High-throughput experimentation, when combined with machine learning, provides a powerful framework for autonomously generating such datasets. Nevertheless, important challenges remain, such as the development of autonomous data analysis methods, the integration of multimodal characterization techniques, and the interpretation of machine learning models to extract meaningful scientific insights. To address these challenges, I have implemented and tested several strategies on data-driven frameworks for the synthesis of plasmonic nanoparticles. 
+The collection of large datasets is critical for advancing our understanding of complex material systems. High-throughput experimentation, when combined with machine learning, provides a powerful framework for autonomously generating such datasets. Nevertheless, important challenges remain, such as the development of autonomous data analysis methods, the integration of multimodal characterization techniques, and the interpretation of machine learning models to extract meaningful scientific insights. To address these challenges, I have implemented and tested several strategies on data-driven frameworks for the synthesis of plasmonic nanoparticles. This work involved using autonomous robots to synthesize materials such as the Opentrons OT2 and <a href="https://science-jubilee.readthedocs.io/en/latest/">Science Jubilee</a>.
 
 <p align="center">
   <img src="../images/HT_Experimentation.png" width="650" height="300">
@@ -47,7 +47,7 @@ Biomolecules are the most complex materials known to mankind, and are responsibl
 </p>
 
 ## Computer Simulations 
-Computational simulations are powerful tools for uncovering insights that are often difficult to obtain through experimental characterization alone. My work in this area focuses on modeling particle interactions using pair potentials and analyzing simulation outputs through structure factors and scattering methods. In addition, I have developed approaches to optimize simulation potentials to fit experimental SAXS data, bridging the gap between simulation and experiment. 
+Computational simulations are powerful tools for uncovering insights that are often difficult to obtain through experimental characterization alone. One project that I worked on involved modeling particle interactions using pair potentials and analyzing simulation outputs through structure factors and scattering methods. By performing the simulations in a closed-loop, aided by Bayesian Optimization, I optimized simulation potentials to fit experimental SAXS data, bridging the gap between simulation and experiment. 
 
 <p align="center">
   <img src="../images/Crystal_Simulation.gif"  width="550" height="200">
@@ -57,6 +57,7 @@ Computational simulations are powerful tools for uncovering insights that are of
   <a href="https://chemrxiv.org/engage/chemrxiv/article-details/68b23be423be8e43d6e60345">Self-Assembly of Silica Nanoparticles</a>
 </p>
 
+Another project that I am currently working on is the simulation of water molecules under nanoconfinement in carbon nanotubes. By performing simulations in high-throughput, this project involves determining how the structure of the carbon nanotube affects the behavior of confined water molecules. 
 
 <p align="center">
   <img src="../images/CNT_water_simulation.gif"  width="650" height="250">

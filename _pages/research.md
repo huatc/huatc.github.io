@@ -16,7 +16,6 @@ The collection of large datasets is critical for advancing our understanding of 
   <img src="../images/HT_Experimentation.png" width="650" height="300">
 </p>
 
-
 <p align="center">
   <a href="https://pubs.rsc.org/en/content/articlehtml/2024/dd/d4dd00211c">Data-driven exploration of silver nanoplate formation</a>
 </p>
@@ -25,6 +24,9 @@ The collection of large datasets is critical for advancing our understanding of 
   <a href="https://pubs.rsc.org/en/content/articlehtml/2022/dd/d2dd00025c">Autonomous retrosynthesis via spectral shape matching</a>
 </p>
 
+<p align="center">
+  <a href="https://www.nature.com/articles/s41524-025-01822-z">Autonomous Phasemapping Tools</a>
+</p>
 
 ## Biomolecular Self-Assembly 
 Biomolecules are the most complex materials known to mankind, and are responsible for most of the physiological processes that make life possible. Their function arises from intricate assemblies of proteins, DNA, peptides, lipids, and other components. My research focuses on understanding and designing such self-assembling biomolecular systems, particularly by uncovering sequence-level design rules that drive the formation of complex structures.
@@ -54,7 +56,7 @@ Computational simulations are powerful tools for uncovering insights that are of
 </p>
 
 <p align="center">
-  <a href="https://chemrxiv.org/engage/chemrxiv/article-details/68b23be423be8e43d6e60345">Self-Assembly of Silica Nanoparticles</a>
+  <a href="https://pubs.rsc.org/en/content/articlelanding/2025/sm/d5sm00924c">Self-Assembly of Silica Nanoparticles</a>
 </p>
 
 Another project that I am currently working on is the simulation of water molecules under nanoconfinement in carbon nanotubes. By performing simulations in high-throughput, this project involves determining how the structure of the carbon nanotube affects the behavior of confined water molecules. 
@@ -96,5 +98,5 @@ Data analysis from small-angle scattering, especially from large strutcures, can
 </p>
 
 <p align="center">
-  <a href="https://chemrxiv.org/engage/chemrxiv/article-details/68b23be423be8e43d6e60345">Self-Assembly of Silica Nanoparticles</a>
+  <a href="https://pubs.rsc.org/en/content/articlelanding/2025/sm/d5sm00924c">Self-Assembly of Silica Nanoparticles</a>
 </p>

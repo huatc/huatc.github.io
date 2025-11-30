@@ -39,6 +39,9 @@ Biomolecules are the most complex materials known to mankind, and are responsibl
   <img src="../images/evaporation_movie.gif"  width="550" height="200">
 </p>
 
+<p align="center">
+  <a href="https://www.nature.com/articles/s41563-025-02297-5">Bond-centric modular design of protein assemblies</a>
+</p>
 
 <p align="center">
   <a href="https://www.cell.com/chem/abstract/S2451-9294(24)00652-1">Design of light-and chemically responsive protein assemblies</a>
